@@ -1,0 +1,24 @@
+{
+  "name": "learn_three-js_ics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Higemura@github.com/Higemura/learn_three-js_ics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Higemura/learn_three-js_ics/issues"
+  },
+  "homepage": "https://github.com/Higemura/learn_three-js_ics#readme"
+}
